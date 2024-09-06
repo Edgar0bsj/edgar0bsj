@@ -5,7 +5,7 @@
 - 👯 Procuro colaborar em projetos de código aberto.
 - 🤔 Estou procurando ajuda com boas práticas de desenvolvimento em frameworks PHP e em como escalar meus projetos freelance.
 - 💬 Pergunte-me sobre automação de processos, otimização de fluxos de trabalho e criação de sistemas personalizados.
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/seu-usuario) | Email: 01.edgarjunior@gmail.com
+- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/edgar-junior) | Email: 01.edgarjunior@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Além de tecnologia, sou apaixonado por games.
 ## 📊 GitHub Stats
