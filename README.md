@@ -1,4 +1,4 @@
-<h3 align="center">👋 Olá, eu sou Edgar Barbosa da Silva Junior!</h3>
+<h3 align="center">👋 Olá, Me chamo Edgar Junior!</h3>
 
 - 🔭 Atualmente estou trabalhando em projetos freelance.
 - 🌱 Atualmente estou estudando PHP.
