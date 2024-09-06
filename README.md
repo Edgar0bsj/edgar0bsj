@@ -10,7 +10,7 @@
 - ⚡ Curiosidade: Além de tecnologia, sou apaixonado por games.
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar0bsj)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar0bsj&show_icons=true&theme=dark)
 
 ---
 *Obrigado por visitar meu perfil! 😄*
