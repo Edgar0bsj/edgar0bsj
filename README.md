@@ -1,4 +1,4 @@
-👨‍💻 Sobre mim
+<h1>👨‍💻 Sobre mim</h1>
 E aí! Eu sou o Edgar, tenho 26 anos e tô nessa jornada louca e incrível do mundo da programação!
 
 Já flertei com várias linguagens (Java, Python, PHP...), mas hoje meu relacionamento mais sério é com o JavaScript/TypeScript. Me aventuro bastante no back-end, mas nos últimos tempos tô mergulhado de cabeça no front-end, já que os freelas que aparecem tão puxando mais pra esse lado — e eu tô adorando!
