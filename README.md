@@ -1,13 +1,20 @@
-<h3 align="center">👋 Olá, Me chamo Edgar Junior!</h3>
+👨‍💻 Sobre mim
+E aí! Eu sou o Edgar, tenho 26 anos e tô nessa jornada louca e incrível do mundo da programação!
 
-- 🔭 Atualmente estou trabalhando em projetos freelance.
-- 🌱 Atualmente estou estudando PHP.
-- 👯 Procuro colaborar em projetos de código aberto.
-- 🤔 Estou procurando ajuda com boas práticas de desenvolvimento em frameworks PHP e em como escalar meus projetos freelance.
-- 💬 Pergunte-me sobre automação de processos, otimização de fluxos de trabalho e criação de sistemas personalizados.
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/edgar-junior) | Email: 01.edgarjunior@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Além de tecnologia, sou apaixonado por games.
+Já flertei com várias linguagens (Java, Python, PHP...), mas hoje meu relacionamento mais sério é com o JavaScript/TypeScript. Me aventuro bastante no back-end, mas nos últimos tempos tô mergulhado de cabeça no front-end, já que os freelas que aparecem tão puxando mais pra esse lado — e eu tô adorando!
+
+💻 Meu estilo de codar
+Gosto de explorar novas ideias e resolver pepinos com código.
+
+No back-end eu me viro bem, mas tô sempre estudando mais.
+
+No front-end, tenho focado em entregar interfaces bonitas, funcionais e com aquele toque de animação
+
+Curto pensar na experiência de quem vai usar, não só em “fazer funcionar”.
+
+🚀 O que eu quero
+Quero contribuir o máximo possível nos projetos que me envolvo, aprender com a galera boa que cruza meu caminho e, claro, crescer como dev e como pessoa. Se eu puder somar com o seu time, projeto ou ideia... é só chamar!
+
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar0bsj&show_icons=true&theme=transparent)
