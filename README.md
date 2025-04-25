@@ -5,11 +5,8 @@ Já flertei com várias linguagens (Java, Python, PHP...), mas hoje meu relacion
 
 💻 Meu estilo de codar
 Gosto de explorar novas ideias e resolver pepinos com código.
-
 No back-end eu me viro bem, mas tô sempre estudando mais.
-
 No front-end, tenho focado em entregar interfaces bonitas, funcionais e com aquele toque de animação
-
 Curto pensar na experiência de quem vai usar, não só em “fazer funcionar”.
 
 🚀 O que eu quero
