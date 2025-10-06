@@ -1,20 +1,43 @@
-<h1>👨‍💻 Sobre mim</h1>
-E aí! Eu sou o Edgar, tenho 26 anos e tô nessa jornada louca e incrível do mundo da programação!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Já flertei com várias linguagens (Java, Python, PHP...), mas hoje meu relacionamento mais sério é com o JavaScript/TypeScript. Me aventuro bastante no back-end, mas nos últimos tempos tô mergulhado de cabeça no front-end, já que os freelas que aparecem tão puxando mais pra esse lado — e eu tô adorando!
+<p align="left"> 
+Sou desenvolvedor apaixonado por transformar ideias em código e por quebrar a cabeça até tudo funcionar. Aqui você vai encontrar meus projetos, estudos e algumas aventuras no mundo da programação.
+</p>
 
-💻 Meu estilo de codar
-Gosto de explorar novas ideias e resolver pepinos com código.
-No back-end eu me viro bem, mas tô sempre estudando mais.
-No front-end, tenho focado em entregar interfaces bonitas, funcionais e com aquele toque de animação
-Curto pensar na experiência de quem vai usar, não só em “fazer funcionar”.
+<p align="left">
+  🔧 Linguagem: JavaScript/TypeScript
+</p>
 
-🚀 O que eu quero
-Quero contribuir o máximo possível nos projetos que me envolvo, aprender com a galera boa que cruza meu caminho e, claro, crescer como dev e como pessoa. Se eu puder somar com o seu time, projeto ou ideia... é só chamar!
+<p align="left">
+  💼 Ferramentas: Express, NextJS, MongoDb
+</p>
 
-## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar0bsj&show_icons=true&theme=transparent)
 
----
-*Obrigado por visitar meu perfil! 😄*
+<p align="left">
+  <a href="01.edgarjunior@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/edgar-junior/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/dgar_jr/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Edgar0bsj&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar0bsj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
