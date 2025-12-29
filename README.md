@@ -5,7 +5,7 @@ Sou desenvolvedor apaixonado por transformar ideias em código e por quebrar a c
 </p>
 
 <p align="left">
-  🔧 Linguagem: JavaScript/TypeScript
+  🔧 Linguagem: Java☕ | JavaScript/TypeScript
 </p>
 
 <p align="left">
@@ -23,21 +23,4 @@ Sou desenvolvedor apaixonado por transformar ideias em código e por quebrar a c
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Edgar0bsj&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar0bsj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+
