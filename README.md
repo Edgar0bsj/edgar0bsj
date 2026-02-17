@@ -5,11 +5,11 @@ Sou desenvolvedor apaixonado por transformar ideias em código e por quebrar a c
 </p>
 
 <p align="left">
-  🔧 Linguagem: Java☕ | JavaScript/TypeScript
+  🔧 Linguagem: Java☕ | JavaScript/TypeScript | SQL
 </p>
 
 <p align="left">
-  💼 Ferramentas: Express, NextJS, MongoDb
+  💼 Ferramentas: Express, NextJS, Spring Boot
 </p>
 
 
